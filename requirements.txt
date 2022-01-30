@@ -1,0 +1,7 @@
+flask
+Flask-SQLAlchemy
+flake8
+Flask-Migrate
+waitress
+flake8
+pytest
